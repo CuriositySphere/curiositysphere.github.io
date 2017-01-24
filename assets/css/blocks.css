@@ -6492,11 +6492,11 @@
 }
 
 .latest-list li a {
-	color: #eee;
+	color: #FFF;
 }
 
 .latest-list small {
-	color: #999;
+	color: #FFF;
 	display: block;
 }
 
@@ -6510,7 +6510,7 @@
 }
 
 .link-list a {
-	color: #eee;
+	color: #FFF;
 	font-size: 11px;
 	padding: 6px 0px;
 	display: inline-block;

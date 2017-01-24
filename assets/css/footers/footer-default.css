@@ -1,7 +1,7 @@
 /*Footer Default
 ------------------------------------*/
 .footer-default .footer {
-	color: #dadada;
+	color: #000000;
 	background: #585f69;
 	padding: 20px 0 30px;
 }
@@ -32,7 +32,7 @@
 .footer-default .footer h2,
 .footer-default .footer h3,
 .footer-default .footer h4 {
-	color: #e4e4e4;
+	color: #ffd400;
 	background: none;
 	text-shadow: none;
 }
@@ -46,7 +46,7 @@
 .footer-default .footer .blog-list {
 	margin: 0;
 	padding: 0;
-	color: #dadada;
+	color: #ffd400;
 	list-style: none;
 }
 
@@ -55,7 +55,7 @@
 	margin-bottom: 7px;
 }
 .footer-default .footer .blog-list li span {
-	color: #818488;
+	color: #ffd400;
 }
 
 .footer-default .footer .dl-horizontal,
@@ -64,20 +64,20 @@
 	background: none !important;
 }
 .footer-default .footer .posts .dl-horizontal a {
-	color: #dadada;
+	color: #ffd400;
 }
 .footer-default .footer .dl-horizontal a:hover {
 	color: #5fb611 !important;
 }
 .footer-default .footer .dl-horizontal img {
-	border-color: #888 !important;
+	border-color: #ffd400 !important;
 }
 
 /*Copyright*/
 .footer-default .copyright {
 	font-size: 12px;
 	padding: 11px 0 7px;
-	background: #3e4753;
+	background: #ffd400;
 }
 
 .footer-default .copyright p {
@@ -87,10 +87,10 @@
 
 .footer-default .copyright a {
 	margin: 0 5px;
-	color: #72c02c;
+	color: #ffd400;
 }
 .footer-default .copyright a:hover {
-	color: #5fb611;
+	color: #ffd400;
 }
 
 .footer-default .copyright a img {
