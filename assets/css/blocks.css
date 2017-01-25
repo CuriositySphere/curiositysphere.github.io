@@ -6580,7 +6580,7 @@ a.thumbnail {
 	margin-bottom: 20px;
 }
 .thumbnail-style:hover {
-	box-shadow: 0 0 8px #00FF2D;
+	box-shadow: 0 0 12px #00FF2D;
   background-color: #181A1C;
   transition: box-shadow 0.2s ease-in-out;
 }
