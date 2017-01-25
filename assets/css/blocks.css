@@ -2039,7 +2039,7 @@
 .portfolio-box-v1 {
   margin: 0;
 }
-
+s
 .portfolio-box-v1 [class^="col-"] {
   padding: 0;
   overflow: hidden;
@@ -6322,9 +6322,9 @@
 }
 
 .purchase span {
-	color: #666;
+	color: #FFF;
 	display: block;
-	font-size: 24px;
+	font-size: 45px;
 	line-height: 35px;
 	font-weight: normal;
 	margin-bottom: 12px;
@@ -6367,8 +6367,8 @@
 	padding: 15px 15px 10px;
 }
 .service:hover {
-	background: #fcfcfc;
-	box-shadow: 0 0 5px #ddd;
+	background: #181a1c;
+	box-shadow: 0 0 10px #72C02C;
 	transition: box-shadow 0.2s ease-in-out;
 }
 .service:hover i {
