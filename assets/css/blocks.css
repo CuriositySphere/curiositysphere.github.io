@@ -6580,7 +6580,8 @@ a.thumbnail {
 	margin-bottom: 20px;
 }
 .thumbnail-style:hover {
-	box-shadow: 0 0 8px #ddd;
+	box-shadow: 0 0 8px #00FF2D;
+  background-color: #181A1C;
   transition: box-shadow 0.2s ease-in-out;
 }
 
@@ -6617,7 +6618,7 @@ a.thumbnail {
 }
 .thumbnail-style a.btn-more:hover {
 	text-decoration: none;
-	box-shadow: 0 0 0 2px #5fb611;
+	box-shadow: 0 0 0 2px #00FF2D;
 }
 .thumbnail-style:hover a.btn-more {
 	right: 10px;
@@ -6751,7 +6752,7 @@ a.thumbnail {
 }
 
 .team .thumbnail-style:hover h3 a {
-	color: #72c02c !important;
+	color: #72c02c ;
 }
 
 .team .thumbnail-style small {
