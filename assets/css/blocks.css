@@ -6322,7 +6322,7 @@ s
 }
 
 .purchase span {
-	color: #FFF;
+	color: #00FF2D;
 	display: block;
 	font-size: 45px;
 	line-height: 35px;
@@ -6346,11 +6346,13 @@ s
 @media (max-width: 992px) {
 	.purchase {
 		text-align: center;
+   color: #00FF2D;
 	}
 
 	.purchase span {
 		font-size: 22px;
 		line-height: 29px;
+    color: #00FF2D;
 	}
 
 	.purchase .btn-buy a {
@@ -6589,7 +6591,7 @@ a.thumbnail {
 
 .thumbnail h3 a,
 .thumbnail-style h3 a {
-	color: #585f69;
+	color: #00FF2D;
 	font-size: 18px;
 }
 
