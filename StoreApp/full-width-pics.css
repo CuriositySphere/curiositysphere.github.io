@@ -11,7 +11,7 @@ background-image: url('eve01.jpg');
   
     background-attachment: scroll; /* default */
 background-attachment: fixed;
-overflow-x: auto;
+overflow-x: hidden;
 }
 
 .image-bg-fluid-height,
